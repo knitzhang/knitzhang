@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- :coin: Web3 frontend developer(Wanna Be)
+- :notebook: VScode & NeoVim
+- :tropical_drink: Diet Cole Fans
+
 <!--
 **knitzhang/knitzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
